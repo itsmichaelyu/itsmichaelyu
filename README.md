@@ -21,6 +21,8 @@
 
 
 ## "Why can't I just use iMessage or SMS?"
+### **Why Privacy Matters?**
+- [TED Talk](https://youtu.be/pcSlowAhvUk)
 ### **Why You Can't Trust Big Tech**
 - [Article](https://www.nytimes.com/2022/08/21/technology/google-surveillance-toddler-photo.html)
 - [Paywall Free Article](https://web.archive.org/web/20220823140140/https://www.nytimes.com/2022/08/21/technology/google-surveillance-toddler-photo.html)
